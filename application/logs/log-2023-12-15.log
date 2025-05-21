@@ -1,0 +1,16 @@
+ERROR - 2023-12-15 04:44:14 --> Query error: Multiple primary key defined - Invalid query: ALTER TABLE `e_administrasi`  ADD PRIMARY KEY (`administrasi_id`);
+ERROR - 2023-12-15 04:44:14 --> Query error: Duplicate column name 'sistem_penilaian' - Invalid query: ALTER TABLE `e_lembaga`
+	ADD `sistem_penilaian` INT(1) DEFAULT '1'
+ERROR - 2023-12-15 04:44:14 --> Query error: Duplicate column name 'semester_jenis' - Invalid query: ALTER TABLE `e_semester`
+	ADD `semester_jenis` INT(1) DEFAULT '1'
+ERROR - 2023-12-15 04:44:14 --> Query error: Duplicate column name 'semester_jenis' - Invalid query: ALTER TABLE `e_semester`
+	ADD `semester_jenis` INT(1) DEFAULT '1'
+ERROR - 2023-12-15 04:44:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 - Invalid query: ALTER TABLE `e_kurikulum`  MODIFY `kurikulum_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT
+ERROR - 2023-12-15 04:44:37 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/libraries/AssetPacker.php 0
+ERROR - 2023-12-15 04:44:37 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/libraries/AssetPacker.php 0
+ERROR - 2023-12-15 04:44:38 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/models/Emodel.php 0
+ERROR - 2023-12-15 04:44:40 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/libraries/AssetPacker.php 0
+ERROR - 2023-12-15 04:44:40 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/libraries/AssetPacker.php 0
+ERROR - 2023-12-15 04:44:43 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/models/Emodel.php 0
+ERROR - 2023-12-15 04:44:44 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/libraries/AssetPacker.php 0
+ERROR - 2023-12-15 04:44:44 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) /home/man4tabalong.biz.id/rdm.man4tabalong.biz.id/application/libraries/AssetPacker.php 0

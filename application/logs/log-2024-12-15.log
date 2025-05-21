@@ -1,0 +1,80 @@
+ERROR - 2024-12-15 23:51:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:51:57 --> Unable to connect to the database
+ERROR - 2024-12-15 23:51:58 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:51:58 --> Unable to connect to the database
+ERROR - 2024-12-15 23:51:58 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:52:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:52:06 --> Unable to connect to the database
+ERROR - 2024-12-15 23:52:07 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:52:07 --> Unable to connect to the database
+ERROR - 2024-12-15 23:52:07 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:52:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:52:10 --> Unable to connect to the database
+ERROR - 2024-12-15 23:52:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:52:11 --> Unable to connect to the database
+ERROR - 2024-12-15 23:52:11 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:52:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:52:14 --> Unable to connect to the database
+ERROR - 2024-12-15 23:52:15 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:52:15 --> Unable to connect to the database
+ERROR - 2024-12-15 23:52:15 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:53:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:53:50 --> Unable to connect to the database
+ERROR - 2024-12-15 23:53:51 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:53:51 --> Unable to connect to the database
+ERROR - 2024-12-15 23:53:51 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:53:55 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:53:55 --> Unable to connect to the database
+ERROR - 2024-12-15 23:53:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:53:56 --> Unable to connect to the database
+ERROR - 2024-12-15 23:53:56 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:53:59 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:53:59 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:00 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:00 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:54:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:14 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:15 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:15 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:15 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:54:20 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:20 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:21 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:21 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:21 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:54:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:35 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:36 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:36 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:36 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:54:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:56 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:54:57 --> Unable to connect to the database
+ERROR - 2024-12-15 23:54:57 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:55:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:55:13 --> Unable to connect to the database
+ERROR - 2024-12-15 23:55:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:55:14 --> Unable to connect to the database
+ERROR - 2024-12-15 23:55:14 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:55:21 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:55:21 --> Unable to connect to the database
+ERROR - 2024-12-15 23:55:22 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:55:22 --> Unable to connect to the database
+ERROR - 2024-12-15 23:55:22 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:56:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:56:28 --> Unable to connect to the database
+ERROR - 2024-12-15 23:56:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:56:29 --> Unable to connect to the database
+ERROR - 2024-12-15 23:56:29 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:56:37 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:56:37 --> Unable to connect to the database
+ERROR - 2024-12-15 23:56:38 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:56:38 --> Unable to connect to the database
+ERROR - 2024-12-15 23:56:38 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'
+ERROR - 2024-12-15 23:56:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:56:56 --> Unable to connect to the database
+ERROR - 2024-12-15 23:56:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/asysyari/rdm.missalwa.my.id/system/database/drivers/mysqli/mysqli_driver.php 0
+ERROR - 2024-12-15 23:56:57 --> Unable to connect to the database
+ERROR - 2024-12-15 23:56:57 --> Query error: Connection refused - Invalid query: SELECT settings_value FROM e_settings where settings_nama='revision'

@@ -1,0 +1,5 @@
+
+silakan disesuaikan nanti di file : config.php
+database : ugllxutq_rdm
+user database : ugllxutq_rdm
+password : rdmMAN4tabalong
