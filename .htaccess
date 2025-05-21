@@ -1,8 +1,3 @@
-# START MultiPHP Version
-<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
-    SetHandler application/x-httpd-alt-php72___lsphp
-</FilesMatch>
-# END MultiPHP Version
 Options FollowSymLinks
 
 RewriteEngine On
