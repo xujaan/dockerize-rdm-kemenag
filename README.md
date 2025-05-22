@@ -24,6 +24,7 @@ Aplikasi RDM Kemenag
      $databasename = "nama_database_anda";
      $dbpassword = "password_database_anda";
      ```
+    - Import database.sql di database engine Anda, jika Anda menginstall RDM dari awal atau kosongan.
 
 3. **Atur Izin untuk Sessions**
    - Jalankan perintah berikut untuk mengatur izin yang diperlukan untuk direktori session:
